@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with React JS
+
+View User Log Details -
+![](ftgif.mp4)
+
 
 ## Available Scripts
 
