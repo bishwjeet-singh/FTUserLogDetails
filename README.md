@@ -1,7 +1,7 @@
 This project was created with React JS
 
 View User Log Details -
-![](ftgif.mp4)
+![](projectgiphy.gif)
 
 
 ## Available Scripts
