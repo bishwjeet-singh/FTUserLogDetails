@@ -7,25 +7,25 @@ This project was created with React JS
 
 ## DEMO
 
-You can see the deployed website at (using Firebase) - https://ftp-userdetails.web.app/
+You can see the deployed website at (using Firebase) - https://ftp-userdetails.web.app/ <br/>
 
-Calendar data can be found for 17th Oct, 18th Oct, 19th Oct 2020
+Calendar data can be found for 17th Oct, 18th Oct, 19th Oct 2020 <br/>
 
-Public Mock API (using Postman) - https://ff6684a7-d34a-40c2-8372-d5308d32ec20.mock.pstmn.io
+Public Mock API (using Postman) - https://ff6684a7-d34a-40c2-8372-d5308d32ec20.mock.pstmn.io <br/>
 
 ## Tools Used
 
-VSCode
-Postman
-Firebase
+VSCode <br/>
+Postman <br/>
+Firebase <br/>
 
 ## libraries used
 
-@material-ui
-antd
-react-big-calendar
-moment
-axios
+@material-ui <br/>
+antd <br/>
+react-big-calendar <br/>
+moment <br/>
+axios <br/>
 
 ## Run
 
