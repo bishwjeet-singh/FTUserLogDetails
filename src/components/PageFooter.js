@@ -12,7 +12,7 @@ const PageFooter = () => {
                 Come back tomorrow to check user activity again
             </Typography>
             <Typography variant="subtitle1" align="center" color="textSecondary" component="p">
-                FullThrottle Labs
+                User Activities
             </Typography>
             <Copyright />
         </footer>
