@@ -8,9 +8,9 @@ const PageHeader = () => {
         <>
             <AppBar position="relative" style={{backgroundColor: 'black'}}>
                 <Toolbar>
-                    <img src={require("../assets/ftlogo.png")} className="Logo" alt="logo" style={{borderRadius: "4px", width: "50px", height: "50px"}}/>
+                    <img src={require("../assets/logo.svg")} className="Logo" alt="logo" style={{borderRadius: "4px", width: "50px", height: "50px"}}/>
                     <Typography variant="h6" color="inherit" noWrap style={{paddingLeft: "12px", paddingTop: "4px"}}>
-                        FullThrottle Labs
+                        ABC Labs
                     </Typography>
                 </Toolbar>
             </AppBar>
