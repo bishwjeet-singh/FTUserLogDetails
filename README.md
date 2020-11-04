@@ -7,7 +7,7 @@ This project was created with React JS
 
 ## DEMO
 
-You can see the deployed website at (using Firebase) - https://ftp-userdetails.web.app/ <br/>
+Live Demo - https://ftp-userdetails.web.app/ <br/>
 
 Calendar data can be found for 17th Oct, 18th Oct, 19th Oct 2020 <br/>
 
