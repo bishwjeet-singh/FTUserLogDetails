@@ -19,7 +19,7 @@ VSCode <br/>
 Postman <br/>
 Firebase <br/>
 
-## libraries used
+## Libraries & Dependencies
 
 @material-ui <br/>
 antd <br/>
